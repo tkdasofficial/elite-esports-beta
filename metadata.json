@@ -1,0 +1,6 @@
+{
+  "name": "Elite Esports",
+  "description": "A high-performance Esports tournament and matches platform featuring tournament listings, leaderboard, wallet, match history, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
